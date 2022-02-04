@@ -1,6 +1,8 @@
 # 🅱️ 🐙 🐳 🦞
 
-Currently working on [Cyanite.ai](https://cyanite.ai/) and doing awesome open source stuff at [The Guild](https://github.com/the-guild-org).
+Currently working on awesome open source stuff at [The Guild](https://github.com/the-guild-org).
+
+Previously been worrking at [Cyanite.ai](https://cyanite.ai/).
 
 I am also building [Dungeon Revealer](https://github.com/dungeon-revealer/dungeon-revealer), [OBS Character Overlay](https://github.com/n1ru4l/character-overlay) and other useful stuff in my free time.
 
@@ -8,6 +10,7 @@ I am also building [Dungeon Revealer](https://github.com/dungeon-revealer/dungeo
 
 ### GraphQL
 
+- [The Anatomy of a GraphQL Request](https://www.the-guild.dev/blog/the-anatomy-of-a-graphql-request)
 - [Subscriptions and Live Queries - Real Time with GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
 - [GraphQL Live Queries with Socket.io](https://dev.to/n1ru4l/graphql-live-queries-with-socket-io-4mh6)
 - [Collecting GraphQL Live Query Resource Identifier with GraphQL Tools](https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools)
