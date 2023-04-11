@@ -1,23 +1,19 @@
-# 🅱️ 🐙 🐳 🦞
-
 Currently working on awesome open source stuff at [The Guild](https://github.com/the-guild-org).
 
-Previously been worrking at [Cyanite.ai](https://cyanite.ai/).
+Previously working at [Cyanite.ai](https://cyanite.ai/).
 
-I am also building [Dungeon Revealer](https://github.com/dungeon-revealer/dungeon-revealer), [OBS Character Overlay](https://github.com/n1ru4l/character-overlay) and other useful stuff in my free time.
+## Videos 📹
 
-## Some of my blog posts 📝
+- [Are you using GraphQL the intended way?](https://www.youtube.com/watch?v=YLytItSZCII) @ Prisma Berlin Meetup June 2022
+- [Leveraging GraphQL for building public APIs](https://www.youtube.com/watch?v=ydeJpuDxakU) @ API Days Paris 2022
+- [The ultimative GraphQL client development experience](https://www.youtube.com/watch?v=wd_s5AiAhG8) @ Hygraph GraphQL Conf 2022 (online)
+- [From Reference Implementation to Production - The Parallel Roles of graphql-js](https://www.youtube.com/watch?v=bNMXoBlh98A) @ GraphQL Conf 2022, Austin Texas 
 
-### GraphQL
+## Blog 📝
 
+- [GraphQL Cursor Pagination with Postgres](https://the-guild.dev/blog/graphql-cursor-pagination-with-postgresql)
 - [The Anatomy of a GraphQL Request](https://www.the-guild.dev/blog/the-anatomy-of-a-graphql-request)
 - [Subscriptions and Live Queries - Real Time with GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
 - [GraphQL Live Queries with Socket.io](https://dev.to/n1ru4l/graphql-live-queries-with-socket-io-4mh6)
 - [Collecting GraphQL Live Query Resource Identifier with GraphQL Tools](https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools)
 - [Handling GraphQL errors like a champ with unions and interfaces](https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/)
-
-
-
-### React
-- [useAsyncEffect - How to handle async operations with useEffect and generators](https://dev.to/n1ru4l/homebrew-react-hooks-useasynceffect-or-how-to-handle-async-operations-with-useeffect-1fa8)
-- [useCurrent - Suspense like behaviour without suspense](https://dev.to/n1ru4l/homebrew-react-hooks-usecurrent-47o5)
