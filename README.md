@@ -17,3 +17,7 @@ Previously working at [Cyanite.ai](https://cyanite.ai/).
 - [GraphQL Live Queries with Socket.io](https://dev.to/n1ru4l/graphql-live-queries-with-socket-io-4mh6)
 - [Collecting GraphQL Live Query Resource Identifier with GraphQL Tools](https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools)
 - [Handling GraphQL errors like a champ with unions and interfaces](https://blog.logrocket.com/handling-graphql-errors-like-a-champ-with-unions-and-interfaces/)
+
+_____
+
+![!The Guild](https://pbs.twimg.com/profile_banners/856929295/1681291108/1500x500)
