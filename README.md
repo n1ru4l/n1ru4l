@@ -1,12 +1,13 @@
-Currently working on awesome open source stuff at [The Guild](https://github.com/the-guild-org).
+I am working on awesome open-source stuff at [The Guild](https://github.com/the-guild-org).
 
-Previously working at [Cyanite.ai](https://cyanite.ai/).
+I was previously working at [Cyanite.ai](https://cyanite.ai/).
 
 ## Videos 📹
 
+- [Subscriptions and Live Queries - Real Time with GraphQL](https://www.youtube.com/watch?v=gHkCbqK0kk4) @ GraphQL Zurich Meetup May 2023
 - [Are you using GraphQL the intended way?](https://www.youtube.com/watch?v=YLytItSZCII) @ Prisma Berlin Meetup June 2022
 - [Leveraging GraphQL for building public APIs](https://www.youtube.com/watch?v=ydeJpuDxakU) @ API Days Paris, France 2022
-- [The ultimative GraphQL client development experience](https://www.youtube.com/watch?v=wd_s5AiAhG8) @ Hygraph GraphQL Conf 2022 (online)
+- [The ultimate GraphQL client development experience](https://www.youtube.com/watch?v=wd_s5AiAhG8) @ Hygraph GraphQL Conf 2022 (online)
 - [From Reference Implementation to Production - The Parallel Roles of graphql-js](https://www.youtube.com/watch?v=bNMXoBlh98A) @ GraphQL Conf 2022, Austin, Texas 
 
 ## Blog 📝
