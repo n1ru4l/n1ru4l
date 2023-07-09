@@ -8,7 +8,8 @@ I was previously working at [Cyanite.ai](https://cyanite.ai/).
 - [Are you using GraphQL the intended way?](https://www.youtube.com/watch?v=YLytItSZCII) @ Prisma Berlin Meetup June 2022
 - [Leveraging GraphQL for building public APIs](https://www.youtube.com/watch?v=ydeJpuDxakU) @ API Days Paris, France 2022
 - [The ultimate GraphQL client development experience](https://www.youtube.com/watch?v=wd_s5AiAhG8) @ Hygraph GraphQL Conf 2022 (online)
-- [From Reference Implementation to Production - The Parallel Roles of graphql-js](https://www.youtube.com/watch?v=bNMXoBlh98A) @ GraphQL Conf 2022, Austin, Texas 
+- [From Reference Implementation to Production - The Parallel Roles of graphql-js](https://www.youtube.com/watch?v=bNMXoBlh98A) @ GraphQL Conf 2022, Austin, Texas
+- [GraphQL Hive Pitch](https://youtu.be/sdhqsVwpTVw) @ RedwoodJS Partner Pitches (online)
 
 ## Blog 📝
 
