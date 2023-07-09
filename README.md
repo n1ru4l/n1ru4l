@@ -14,6 +14,7 @@ I was previously working at [Cyanite.ai](https://cyanite.ai/).
 ## Blog 📝
 
 - [GraphQL Cursor Pagination with Postgres](https://the-guild.dev/blog/graphql-cursor-pagination-with-postgresql)
+- [How we shipped CDN access tokens with Cloudflare Workers and R2](https://the-guild.dev/blog/how-we-shipped-cdn-access-tokens-with-cloudflare-workers-and-r2)
 - [The Anatomy of a GraphQL Request](https://www.the-guild.dev/blog/the-anatomy-of-a-graphql-request)
 - [Subscriptions and Live Queries - Real Time with GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
 - [GraphQL Live Queries with Socket.io](https://dev.to/n1ru4l/graphql-live-queries-with-socket-io-4mh6)
