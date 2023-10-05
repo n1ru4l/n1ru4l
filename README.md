@@ -4,12 +4,14 @@ I was previously working at [Cyanite.ai](https://cyanite.ai/).
 
 ## Videos 📹
 
+- [The Evolution of GraphQL Code Generation](https://www.youtube.com/watch?v=BpbkFr2udAY&pp=ygUMbGF1cmluIHF1YXN0) @ GraphQL Conf 2023, San Francisco, CA
+- [Safely Evolve Your Federated GraphQL Schema with GraphQL Hive](https://www.youtube.com/watch?v=75F8hHAEiXU&pp=ygUMbGF1cmluIHF1YXN0)  @ GraphQL Conf 2023, San Francisco, CA
 - [Subscriptions and Live Queries - Real Time with GraphQL](https://www.youtube.com/watch?v=gHkCbqK0kk4) @ GraphQL Zurich Meetup May 2023
 - [Are you using GraphQL the intended way?](https://www.youtube.com/watch?v=YLytItSZCII) @ Prisma Berlin Meetup June 2022
 - [Leveraging GraphQL for building public APIs](https://www.youtube.com/watch?v=ydeJpuDxakU) @ API Days Paris, France 2022
 - [The ultimate GraphQL client development experience](https://www.youtube.com/watch?v=wd_s5AiAhG8) @ Hygraph GraphQL Conf 2022 (online)
 - [From Reference Implementation to Production - The Parallel Roles of graphql-js](https://www.youtube.com/watch?v=bNMXoBlh98A) @ GraphQL Conf 2022, Austin, Texas
-- [GraphQL Hive Pitch](https://youtu.be/sdhqsVwpTVw) @ RedwoodJS Partner Pitches (online)
+- [GraphQL Hive Pitch](https://youtu.be/sdhqsVwpTVw) @ RedwoodJS Partner Pitches 2023 (online)
 
 ## Blog 📝
 
