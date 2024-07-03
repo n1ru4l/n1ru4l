@@ -16,6 +16,7 @@ I was previously working at [Cyanite.ai](https://cyanite.ai/).
 
 ## Blog 📝
 
+- [GraphQL Request Cancellation in JavaScript](https://the-guild.dev/blog/graphql-request-cancellation)
 - [GraphQL Cursor Pagination with Postgres](https://the-guild.dev/blog/graphql-cursor-pagination-with-postgresql)
 - [How we shipped CDN access tokens with Cloudflare Workers and R2](https://the-guild.dev/blog/how-we-shipped-cdn-access-tokens-with-cloudflare-workers-and-r2)
 - [The Anatomy of a GraphQL Request](https://www.the-guild.dev/blog/the-anatomy-of-a-graphql-request)
