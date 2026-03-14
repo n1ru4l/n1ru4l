@@ -4,6 +4,8 @@ I was previously working at [Cyanite.ai](https://cyanite.ai/).
 
 ## Videos 📹
 
+- [From Private To Public: Evolving a GraphQL API for the Outside World](https://youtu.be/kA55fNCyNJk?si=jyE02hNMW6BejQIr) @ GraphQL Conf 2025, Amsterdam
+- [Why GraphQL Subscriptions in Production Aren’t as Easy as You Think](https://www.youtube.com/watch?v=eeey6nUQDaE) @ GraphQL Conf 2024, San Francisco, CA
 - [Securing GraphQL APIs](https://www.youtube.com/live/rU_62SnFKf8?si=8ffeSa7P3wMj9Pt1&t=5465) @ GraphQL London Meetup January 2024, London, UK
 - [The Evolution of GraphQL Code Generation](https://www.youtube.com/watch?v=BpbkFr2udAY&pp=ygUMbGF1cmluIHF1YXN0) @ GraphQL Conf 2023, San Francisco, CA
 - [Safely Evolve Your Federated GraphQL Schema with GraphQL Hive](https://www.youtube.com/watch?v=75F8hHAEiXU&pp=ygUMbGF1cmluIHF1YXN0)  @ GraphQL Conf 2023, San Francisco, CA
